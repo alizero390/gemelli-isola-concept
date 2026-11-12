@@ -12,7 +12,6 @@ It doesn't replace the current website. It shows targeted improvements that coul
 | `bookings.html` | **2-question booking guide** that returns the right number, hours, documents and official link; the three booking routes with tap-to-call; check-in hours; cancellation and preparation notes |
 | `patient-services.html` | Results, medical records, admissions, test preparation, digital services, international patients |
 | `contacts.html` | Emergency Department (24/7, Ponte Cestio access), all useful numbers, directions (buses, bridges, parking), URP |
-| `concept.html` | "What changes": 8 improvements compared with the current site, plus a phased approach |
 
 ## What's new compared with v1
 
@@ -43,7 +42,7 @@ Pages are marked `noindex` so search engines won't list the concept.
 ## Structure
 
 ```
-index.html  bookings.html  patient-services.html  contacts.html  concept.html
+index.html  bookings.html  patient-services.html  contacts.html
 assets/
   styles.css   design tokens, layout, responsive rules
   app.js       language switch, menu, dialogs, search, booking guide
