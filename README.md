@@ -17,7 +17,7 @@ It doesn't replace the current website. It shows targeted improvements that coul
 ## What's new compared with v1
 
 - Real content from the official site: CUP / ReCUP / private CUP numbers and hours, check-in hours, admissions desk, Emergency Department access, buses and parking
-- Fixed links that returned 404 on the official site (results, preparation, medical records) and pointed booking routes to their exact pages
+- Corrected three v1 links that pointed to non-existent pages (results, preparation, medical records) and pointed booking routes to their exact official pages
 - Emergency bar on every page and a dedicated Emergency Department section
 - Search across services, phone numbers and pages (Italian + English)
 - "Useful numbers" panel and mobile bottom bar (Book · Numbers · Search · Menu)
